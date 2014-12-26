@@ -15,6 +15,6 @@ Komoran for Python
 - JDK 1.7 이상
 
 
-더불어 현재 KoNLPy 최신 버전 (2014-12-25일 기준)에도 komoran이 추가되었습니다.
+더불어 현재 KoNLPy 최신 버전 (2014-12-25일 기준)에도 komoran이 추가되었습니다. ( https://github.com/e9t/konlpy )
 
 이와 관련된 문의 사항이 있으시면 jsshin AT shineware.co.kr로 문의 주시기 바랍니다.
